@@ -1,0 +1,1 @@
+This repository provides the code to a first-principle kiln model, the creation of a database based on this model, the building of a feedforward neural network (FNN) and the optimization of the operation parameters based on two different methods.
