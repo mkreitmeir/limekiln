@@ -1,1 +1,2 @@
-This repository provides the code to a first-principle kiln model, the creation of a database based on this model, the building of a feedforward neural network (FNN) and the optimization of the operation parameters based on two different methods.
+This repository provides supplementary material to the paper "First-principle modeling of parallel-flow regenerative kilns and their optimization with genetic algorithm and gradient-based method" (https://doi.org/10.1016/j.dche.2024.100190).
+It includes the code to a first-principle kiln model, the creation of a database based on this model, the building of a feedforward neural network (FNN) and the optimization of the operation parameters based on two different methods.
